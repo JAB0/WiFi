@@ -1,0 +1,20 @@
+[
+  {
+    "S": "SSID-Venus",
+    "T": "WPA2-EAP",
+    "P": "aintNoSecret",
+    "H": false
+  },
+  {
+    "S": "SSID-Mars",
+    "T": "WPA",
+    "P": "aintNoSecret",
+    "H": false
+  },
+  {
+    "S": "SSID-Titan",
+    "T": "WEP",
+    "P": "aintNoSecret",
+    "H": false
+  }
+]
